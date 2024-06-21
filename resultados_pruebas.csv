@@ -1,0 +1,11 @@
+Característica,β,Prueba de Kolmogórov-Smirnov (KS),P-valor KS,Significancia KS,Prueba de U de Mann-Whitney,P-valor U de Mann-Whitney,Significancia U de Mann-Whitney
+Giro Frontal Medio 2 Derecho - Giro Angular Izquierdo,0.1093,0.0596,0.3638,False,119054.0,0.1493,False
+Operculo Rolándico Izquierdo - Pálido Izquierdo,-0.0947,0.0565,0.4292,False,116382.0,0.4135,False
+Lóbulo Paracentral Derecho - Polo Temporal Medio Izquierdo,-0.094,0.1734,0.0,True,90358.0,0.0,True
+Giro Frontal Inferior Orbital 2 Derecho - OFC Anterior Derecho,0.0907,0.0733,0.1549,False,117360.0,0.2955,False
+Tálamo Izquierdo - Giro Temporal Superior Derecho,0.0898,0.1322,0.0005,True,130499.0,0.0,True
+Giro Cingulado Posterior Izquierdo - Giro Cingulado Posterior Derecho,-0.0885,0.1044,0.0116,True,97939.0,0.0005,True
+OFC Posterior Derecho - Polo Temporal Superior Izquierdo,-0.088,0.1837,0.0,True,91083.0,0.0,True
+Pálido Izquierdo - Tálamo Derecho,-0.0873,0.0887,0.048,True,107810.0,0.2362,False
+Giro Frontal Superior 2 Izquierdo - Precúnea Izquierdo,0.0862,0.0858,0.0611,False,105889.0,0.1024,False
+Giro Frontal Inferior Orbital 2 Izquierdo - Giro Frontal Superior Medial Derecho,-0.0848,0.0997,0.0182,True,101296.0,0.0068,True
